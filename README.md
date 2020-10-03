@@ -22,4 +22,5 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![App Walkthrough](/Media/Part-1.gif)
